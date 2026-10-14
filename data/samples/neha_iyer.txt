@@ -1,0 +1,23 @@
+Neha Iyer
+Data Analyst
+neha.iyer@example.com | Hyderabad
+
+Summary:
+Data analyst focused on revenue operations. Turns messy exports into dashboards that finance and sales actually use.
+
+Skills:
+SQL, Excel, Tableau, Power BI, Python, pandas, communication, problem solving
+
+Experience:
+Harbor Retail — Data Analyst, 2021 to present
+Built Tableau and Power BI dashboards for weekly revenue reviews. Wrote PostgreSQL-style SQL models for cohort retention. Automated Excel reconciliations with Python and pandas, saving the team six hours a week.
+
+Campus Books — MIS Executive, 2018 to 2021
+Maintained operational trackers in Excel and prepared monthly leadership packs.
+
+Education:
+MBA Business Analytics, ISB (certificate program), 2021
+B.Com, Osmania University, 2018
+
+Projects:
+Skill-gap report that compared open job descriptions with the current analyst team and flagged missing SQL and Tableau coverage.

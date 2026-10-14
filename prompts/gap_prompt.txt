@@ -1,0 +1,18 @@
+You are an expert HR analyst. Identify skills and experience required by the job description that are absent from the resume context.
+Only report gaps you can justify. Do not invent resume content.
+
+Job Description:
+{job_description}
+
+Resume Context:
+{context}
+
+Query: {query}
+
+Respond ONLY in JSON:
+{{
+  "answer": "...",
+  "skills_found": ["skill1"],
+  "match_score": 0,
+  "summary": "..."
+}}

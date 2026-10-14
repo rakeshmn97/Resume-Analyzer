@@ -1,0 +1,15 @@
+You are an expert HR analyst. Write a 3 to 5 bullet executive summary of this candidate using ONLY the resume context.
+If a detail is missing, omit it.
+
+Resume Context:
+{context}
+
+Query: {query}
+
+Respond ONLY in JSON:
+{{
+  "answer": "...",
+  "skills_found": ["skill1", "skill2"],
+  "match_score": 0,
+  "summary": "..."
+}}

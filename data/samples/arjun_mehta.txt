@@ -1,0 +1,22 @@
+Arjun Mehta
+Frontend Engineer
+arjun.mehta@example.com | Pune
+
+Summary:
+Frontend engineer who has spent four years in early-stage startups shipping React products used by non-technical teams. Strong on design systems and accessible interfaces.
+
+Skills:
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Node, Git, communication, teamwork
+
+Experience:
+Northstar Startup — Senior Frontend Engineer, 2022 to present
+Led the React and Next.js rewrite of the customer portal. Introduced a shared component library and cut page-load time by 35 percent. Worked directly with founders in a five-person startup.
+
+PixelForge — Frontend Developer, 2020 to 2022
+Built marketing sites and an internal dashboard in JavaScript and React. Paired with designers daily. No machine learning or AWS ownership in this role.
+
+Education:
+B.E. Information Technology, COEP, 2020
+
+Projects:
+Open-source accessible form components for React. Wrote the testing guide used by two startup teams.

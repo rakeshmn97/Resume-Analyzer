@@ -1,0 +1,22 @@
+Priya Sharma
+Machine Learning Engineer
+priya.sharma@example.com | Bengaluru
+
+Summary:
+Machine learning engineer with five years building production models for search ranking and document understanding. Comfortable taking a model from notebook to a monitored API.
+
+Skills:
+Python, PyTorch, TensorFlow, scikit-learn, pandas, numpy, SQL, AWS, Docker, Kubernetes, FastAPI, Git, Linux
+
+Experience:
+NovaSearch Labs — Machine Learning Engineer, 2021 to present
+Built a ranking model in Python and PyTorch that lifted click-through rate by 11 percent. Deployed inference on AWS using Docker and Kubernetes. Owned feature pipelines in SQL and pandas.
+
+Helio Analytics — Data Scientist, 2019 to 2021
+Trained NLP classifiers for support-ticket routing. Shipped a FastAPI service and monitored drift. Mentored two junior analysts.
+
+Education:
+B.Tech Computer Science, NIT Trichy, 2019
+
+Projects:
+Resume retrieval prototype using embeddings, Chroma-style vector search, and a closed-book prompt so answers stay grounded in source text.
